@@ -5,6 +5,8 @@ This is a quick piece of middleware I wrote for [elliotcm.co.uk](http://elliotcm
 
 It's probably been done before, hell it's probably already in Sinatra, but this was one of those situations where it seemed quicker to make it than to investigate a bunch of docs.
 
+Edit: Archiving this as I switched to static files long ago.
+
 Usage
 -----
 
